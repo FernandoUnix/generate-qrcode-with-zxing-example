@@ -8,10 +8,10 @@
 
 # Examples
 
-<img src="docs/qrcode_without_img.PNG" raw=true style="margin-right: 10px;"/>
+<img src="docs/qrcode_without_img.png" raw=true style="margin-right: 10px;"/>
 
-<img src="docs/qrcode_with_text.PNG" raw=true style="margin-right: 10px;"/>
+<img src="docs/qrcode_with_text.png" raw=true style="margin-right: 10px;"/>
 
-<img src="docs/qrcode_with_img.PNG" raw=true style="margin-right: 10px;"/>
+<img src="docs/qrcode_with_img.png" raw=true style="margin-right: 10px;"/>
 
 
